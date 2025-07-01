@@ -1,3 +1,8 @@
+---
+title: Getting started with Docusaurus
+---
+
+
 ### different between npm start and npm serve?
 
 The difference between `npm start` and `npm serve` lies in **how they are defined in your project** and **what scripts you assign to them** in the `package.json` file.

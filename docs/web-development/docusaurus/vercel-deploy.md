@@ -1,3 +1,7 @@
+---
+title: Deploy a Docusaurus website on Vercel
+---
+
 ### How to deploy a Docusaurus website on Vercel?
 
 To deploy a Docusaurus site to Vercel:

@@ -1,0 +1,65 @@
+
+## Psychology of Focusing on Negative
+### Why do most of the people focus more on negatives rather than positives 
+
+Great question, Sai Krishna — and a deeply human one.
+
+#### Here's a direct and psychological explanation:
+
+##### 1. **Negativity Bias** (core reason):
+
+The human brain is **wired to detect threats** more than rewards. This comes from evolution — our ancestors had to be hyper-aware of dangers (like predators or poisonous food) to **survive**, not just to feel happy. So:
+
+* **Negative experiences** get stored more deeply in memory.
+* **Negative words** and **criticisms** tend to have more emotional impact.
+* **One negative comment** often outweighs ten positive ones.
+
+> 🔍 Example: If five people praise your work and one criticizes it, you might obsess over the one negative — that's negativity bias at play.
+
+---
+
+##### 2. **Survival vs. Satisfaction**:
+
+* Positive things usually mean things are **okay**, and okay doesn’t need action.
+* Negative things feel like **something’s wrong**, and our brain wants to **fix** it urgently.
+
+---
+
+##### 3. **Cultural Conditioning**:
+
+* Many cultures (including ours in India) emphasize **"fixing what's wrong"** rather than celebrating what's right.
+* Education, parenting, and workplaces often **point out mistakes** more than praising strengths.
+
+---
+
+##### 4. **Social Comparison & Insecurity**:
+
+* People sometimes focus on others' faults or their own failures due to **insecurity** or **low self-worth**.
+* This also fuels **complaining**, **criticism**, and **overthinking**.
+
+---
+
+##### 5. **Media Amplification**:
+
+* News and social media thrive on fear, scandals, and conflict — negative content **gets more attention** (clicks, shares, reactions).
+* So we get **conditioned** to think negative = important.
+
+---
+
+#### How to break this pattern?
+
+You already are — by asking this question. Here's how you can go further:
+
+* ✍️ **Daily gratitude journaling** (3 things you’re thankful for).
+* 🧘🏽‍♂️ **Mindfulness**: Catch your thoughts — ask, "Am I ignoring the good?"
+* 🧠 **Reframe**: If something bad happens, ask, *“What’s the hidden gift here?”*
+* 💬 **Speak positively**: Train yourself to highlight positives in others and yourself.
+
+---
+
+#### Final thought:
+
+> 🌱 “The mind is like a garden. What you water, grows.”
+> If we water negativity, we feel more fear, anger, and sadness. If we water positivity, we grow resilience, joy, and peace.
+
+
