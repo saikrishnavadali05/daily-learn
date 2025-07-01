@@ -11,7 +11,7 @@ export default function Question({ children }) {
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
     >
-      <strong>❓ Question:</strong>
+      <strong>❓ Question</strong>
       <div>{children}</div>
     </motion.div>
   );

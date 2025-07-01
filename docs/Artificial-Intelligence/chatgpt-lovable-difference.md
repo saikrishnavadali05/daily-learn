@@ -1,3 +1,8 @@
+---
+title: ChatGPT and Lovable.dev differences
+---
+
+
 ### chatgpt lovable difference
 
 The difference between **ChatGPT** and **Lovable.dev** lies mainly in **purpose, design, and use-case**. Here's a quick comparison to clarify things:
