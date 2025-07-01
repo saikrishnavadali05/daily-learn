@@ -2,9 +2,7 @@
 
 The difference between **ChatGPT** and **Lovable.dev** lies mainly in **purpose, design, and use-case**. Here's a quick comparison to clarify things:
 
----
-
-### 🔹 ChatGPT (by OpenAI)
+#### 🔹 ChatGPT (by OpenAI)
 
 **Purpose:** General-purpose AI assistant.
 
@@ -18,9 +16,8 @@ The difference between **ChatGPT** and **Lovable.dev** lies mainly in **purpose,
 | **Extensibility**     | Used via APIs, plugins, or integration in apps.                                           |
 | **Use Case Examples** | "Explain React", "Generate code", "Fix a bug", "Write an email".                          |
 
----
 
-### 🔹 Lovable.dev
+#### 🔹 Lovable.dev
 
 **Purpose:** **AI prompt-based app builder**, focused on helping users **generate full-fledged websites** (especially React-based) from natural language prompts.
 
@@ -48,21 +45,9 @@ The difference between **ChatGPT** and **Lovable.dev** lies mainly in **purpose,
 
 ---
 
-Absolutely, Sai Krishna! From now on, I’ll include the **exact question you asked** in my response for clarity and context.
-
----
-
-### ❓ **Your Question:**
-
-**"Architectural difference of both?"** (referring to ChatGPT and Lovable.dev)
-
----
-
-### ✅ **Answer: Architectural Differences Between ChatGPT and Lovable.dev**
+### ✅ **Architectural Differences Between ChatGPT and Lovable.dev**
 
 Here’s a detailed breakdown comparing the internal architecture of **ChatGPT** (by OpenAI) vs **Lovable.dev**:
-
----
 
 #### 🧠 1. **Core Technology**
 
@@ -127,17 +112,9 @@ User Prompt ➝ LLM Interpretation ➝ UI Component Mapping ➝ Code Templates �
 | Output              | Dynamic conversation         | React source code for UI              |
 | Use Case            | Wide domain                  | UI design & frontend prototyping      |
 
----
-
-Understood, Sai Krishna! I’ll include your question at the beginning without using the line "❓ **Your Question:**" from now on.
-
----
-
-
 ### ✅ **Comparison of Architecture: ChatGPT vs Lovable.dev**
 **Architectural difference of both?** (ChatGPT vs Lovable.dev)
 
----
 
 #### 1. **Purpose & Scope**
 
@@ -145,8 +122,6 @@ Understood, Sai Krishna! I’ll include your question at the beginning without u
 | ------- | --------------------------------- | ------------------------------------------------ |
 | Goal    | General-purpose conversational AI | React-based frontend code generator from prompts |
 | Scope   | Broad: answers, code, logic, etc. | Narrow: structured site/UI creation              |
-
----
 
 #### 2. **Core Components**
 
