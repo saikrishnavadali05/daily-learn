@@ -1,0 +1,49 @@
+.qaBox {
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  padding: 1rem;
+  margin: 2rem 0;
+  background: #f9fafb;
+}
+
+.questionBox {
+  background-color: #eef6ff;
+  border-left: 4px solid #3b82f6;
+  padding: 0.8rem;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+}
+
+.answerHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.answerTitle {
+  font-weight: 600;
+  color: #15803d;
+}
+
+.answerActions {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.copyBtn, .toggleBtn {
+  background: none;
+  border: none;
+  font-size: 0.9rem;
+  cursor: pointer;
+  color: #555;
+}
+
+.copyBtn:hover, .toggleBtn:hover {
+  color: #000;
+}
+
+.answerBox {
+  margin-top: 1rem;
+  overflow: hidden;
+}
