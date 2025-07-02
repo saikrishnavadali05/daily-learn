@@ -1,4 +1,6 @@
-### Prompts to build react website
+---
+title: Prompts to build a React website
+---
 
 You're a professional React instructor and UI/UX designer.
 

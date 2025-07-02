@@ -10,3 +10,13 @@ title: Slow down While you use lovable (for early developers)
 ### Be aware of when to prompt for a full app, when to prompt step by step
 1. When to prompt full, prompt a bit, etc
 2. When to speed up, when to slow down 
+
+### When to use ChatGPT, when to use lovable?
+1. Lovable can build latest UI but in one shot with proper prompt
+    - You cannot learn actual web development
+    - For experienced
+2. ChatGPT can help us learn web development step by step
+    - But UI may not be latest
+    - But you will learn how to evolve in web development
+    - For learners
+3. Each approach has its own pros and cons
